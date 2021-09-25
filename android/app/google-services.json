@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522246763274",
+    "project_id": "e-commerce-1b929",
+    "storage_bucket": "e-commerce-1b929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522246763274:android:8c5710ad0819ca9e8340f3",
+        "android_client_info": {
+          "package_name": "com.tazim.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522246763274-n84lkjma8kuva4ts2956229s8hjfvaig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdpTRo0tdOAF2ov-Bh0HQVtgFlzfeoDh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522246763274-n84lkjma8kuva4ts2956229s8hjfvaig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
